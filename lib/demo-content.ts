@@ -32,10 +32,10 @@ export const demoContent = {
   },
   hero: {
     eyebrow: "Fútbol europeo | picks y seguimiento",
-    title: "Pronósticos de fútbol europeo con valor, argumentados y gestión de banco",
+    title: "Pronósticos de fútbol europeo con valor, argumentados y gestión de bank",
     description:
-      "Servicio de pronósticos centrado en fútbol europeo, con picks analizados, selección cuidada y una gestión de stake pensada para seguir el trabajo con criterio y constancia.",
-    badges: ["Picks de valor analizados", "Gestión de stake", "Seguimiento en Telegram"],
+      "Servicio de pronósticos centrado en fútbol europeo, con picks analizados, selección cuidada y una gestión de stake pensada para seguir el trabajo con criterio y constancia dentro de una web premium conectada al canal de Telegram.",
+    badges: ["Picks de valor analizados", "Gestión de stake", "Canal premium en Telegram"],
   },
   valuePillars: [
     {
