@@ -8,9 +8,9 @@ const sans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Atlas Picks | Futbol europeo",
+  title: "Atlas Picks | Fútbol europeo",
   description:
-    "Servicio de pronosticos de futbol europeo con acceso free, premium y seguimiento continuo.",
+    "Servicio de pronósticos de fútbol europeo con acceso free, premium y seguimiento continuo.",
 };
 
 export default function RootLayout({

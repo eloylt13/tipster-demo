@@ -94,7 +94,7 @@ export default function DemoTipsterShell() {
                 href="#como-funciona"
                 className="inline-flex min-h-11 items-center justify-center px-1 text-sm font-semibold text-stone-300 transition hover:text-white"
               >
-                Como funciona
+                Cómo funciona
               </Link>
             </div>
             <div className="mt-5 flex flex-wrap gap-2">
@@ -119,7 +119,7 @@ export default function DemoTipsterShell() {
                   Enfoque del servicio
                 </p>
                 <p className="mt-2 text-2xl font-semibold text-white">
-                  Menos volumen, mas criterio y seguimiento real
+                  Menos volumen, más criterio y seguimiento real
                 </p>
               </div>
             </div>
@@ -127,15 +127,15 @@ export default function DemoTipsterShell() {
               {[
                 [
                   "Picks seleccionados",
-                  "No se trata de publicar mucho, sino de filtrar entradas con sentido y explicar por que se juegan.",
+                  "No se trata de publicar mucho, sino de filtrar entradas con sentido y explicar por qué se juegan.",
                 ],
                 [
-                  "Gestion de bank",
-                  "Stake, control de riesgo y disciplina para que el seguimiento tenga una base seria tambien fuera de las rachas buenas.",
+                  "Gestión de bank",
+                  "Stake, control de riesgo y disciplina para que el seguimiento tenga una base seria también fuera de las rachas buenas.",
                 ],
                 [
                   "Telegram y accesos privados",
-                  "La web presenta el servicio; la operativa y el seguimiento pasan por el canal y las areas de acceso.",
+                  "La web presenta el servicio; la operativa y el seguimiento pasan por el canal y las áreas de acceso.",
                 ],
               ].map(([title, description]) => (
                 <div
@@ -149,10 +149,10 @@ export default function DemoTipsterShell() {
             </div>
             <div className="mt-5 rounded-[1rem] border border-amber-200/10 bg-amber-50/[0.03] px-4 py-4">
               <p className="text-xs uppercase tracking-[0.24em] text-amber-100/70">
-                Que puedes esperar del seguimiento
+                Qué puedes esperar del seguimiento
               </p>
               <p className="mt-2 text-sm leading-6 text-stone-300">
-                Una presentacion clara del servicio, del tipo de picks que se trabajan y de como se accede al canal de Telegram y a las modalidades de pago, sin convertir la portada en un listado diario de pronosticos.
+                Una presentación clara del servicio, del tipo de picks que se trabajan y de cómo se accede al canal de Telegram y a las modalidades de pago, sin convertir la portada en un listado diario de pronósticos.
               </p>
             </div>
           </div>
@@ -186,7 +186,7 @@ export default function DemoTipsterShell() {
               Beneficios y diferenciadores
             </p>
             <h2 className="mt-3 font-[var(--font-demo-display)] text-3xl tracking-[-0.03em] text-white sm:text-4xl">
-              Un servicio centrado en picks analizados, gestion de bank y seguimiento real en Telegram.
+              Un servicio centrado en picks analizados, gestión de bank y seguimiento real en Telegram.
             </h2>
           </div>
           <div className="grid gap-3">
@@ -205,10 +205,10 @@ export default function DemoTipsterShell() {
         <section id="como-funciona" className="mt-16">
           <div className="max-w-2xl">
             <p className="text-[0.7rem] font-semibold uppercase tracking-[0.32em] text-amber-200/75">
-              Como funciona
+              Cómo funciona
             </p>
             <h2 className="mt-3 font-[var(--font-demo-display)] text-3xl tracking-[-0.03em] text-white sm:text-4xl">
-              Un flujo sencillo para que el seguimiento sea claro desde el primer dia.
+              Un flujo sencillo para que el seguimiento sea claro desde el primer día.
             </h2>
           </div>
           <div className="mt-8 grid gap-4 lg:grid-cols-3">
@@ -231,7 +231,7 @@ export default function DemoTipsterShell() {
               Opciones de acceso
             </p>
             <h2 className="mt-3 font-[var(--font-demo-display)] text-3xl tracking-[-0.03em] text-white sm:text-4xl">
-              Free, premium o seguimiento ampliado segun el nivel de implicacion.
+              Free, premium o seguimiento ampliado según el nivel de implicación.
             </h2>
           </div>
           <div className="mt-10 grid gap-4 lg:grid-cols-3">
@@ -395,10 +395,10 @@ export default function DemoTipsterShell() {
           <div className="flex flex-col gap-4 rounded-[1.6rem] border border-white/8 bg-[linear-gradient(180deg,_rgba(255,255,255,0.045),_rgba(255,255,255,0.02))] px-5 py-4 shadow-[0_18px_50px_rgba(0,0,0,0.18)] sm:flex-row sm:items-center sm:justify-between sm:px-6">
             <div className="max-w-2xl">
               <p className="text-sm font-medium text-stone-100">
-                Te interesaria una web asi? Escribeme sin compromiso.
+                ¿Te interesaría una web así? Escríbeme sin compromiso.
               </p>
               <p className="mt-1 text-xs leading-5 text-stone-400">
-                Si quieres una version adaptada a tu marca, te la enseno.
+                Si quieres una versión adaptada a tu marca, te la enseño.
               </p>
             </div>
             <Link
