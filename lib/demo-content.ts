@@ -27,11 +27,11 @@ export type FAQItem = {
 export const demoContent = {
   brand: {
     name: "Atlas Picks",
-    tagline: "Picks analizados en fútbol europeo con stake definido y seguimiento serio",
+    tagline: "Pronósticos analizados y argumentados, con stake y gestión de bank",
     note: "Contenido presentado con fines editoriales.",
   },
   hero: {
-    eyebrow: "Fútbol europeo | picks y seguimiento",
+    eyebrow: "Fútbol europeo | PICKS A DIARIO CON VALOR",
     title: "Pronósticos de fútbol europeo con valor, argumentados y gestión de bank",
     description:
       "Servicio de pronósticos centrado en fútbol europeo, con picks analizados, selección cuidada y una gestión de stake pensada para seguir el trabajo con criterio y constancia dentro de una web premium conectada al canal de Telegram.",

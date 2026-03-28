@@ -415,6 +415,21 @@ export default function DemoTipsterShell() {
             </Link>
           </div>
         </section>
+
+        <section className="flex justify-between items-center border-t border-gray-200 pt-6 pb-6 px-6 flex-wrap gap-4">
+          <div className="flex flex-col">
+            <img src="/logo-iamagica.png" alt="IAMagica" className="h-7" />
+            <p className="text-xs text-gray-400 mt-1">© 2026 IAMagica</p>
+          </div>
+          <div className="flex flex-col items-end">
+            <p className="text-xs font-semibold text-green-800 tracking-wider">DIGITALIZA TU NEGOCIO</p>
+            <a href="mailto:info@iamagica.es" className="text-gray-500 no-underline flex items-center gap-1 mt-1">
+              <span className="text-xl">✉</span>
+              <span>info@iamagica.es</span>
+            </a>
+          </div>
+        </section>
+
       </div>
     </main>
   );
